@@ -32,11 +32,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=20010109&show_icons=true&theme=tokyonight" alt="John's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jl-codilla&show_icons=true&theme=tokyonight" alt="John's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20010109&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-codilla&layout=compact&theme=tokyonight" />
 </p>
 
 ---
