@@ -31,12 +31,13 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jl-codilla&show_icons=true&theme=tokyonight" alt="John's GitHub stats" />
+  <img src="./profile/stats.svg" alt="John's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-codilla&layout=compact&theme=tokyonight" />
+  <img src="./profile/top-langs.svg" alt="John's Top Languages" />
 </p>
 
 ---
