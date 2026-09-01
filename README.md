@@ -43,10 +43,10 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-lorenz-codilla-b3aa21389/">
+  <a href="https://www.linkedin.com/in/johnlorenzcodilla">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:20010109@usc.edu.ph">
+  <a href="mailto:codillajohnlorenz00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
